@@ -40,7 +40,7 @@ platform:
         text: "walletcrescentcash"
         link: "https://play.google.com/store/apps/details?id=app.crescentcash.src"
         source: "https://gitlab.com/pokkst/crescentcash"
-        screenshot: "crescentandroid.png"
+        screenshot: "crescent.png"
         check:
           control: "checkgoodcontrolfull"
           validation: "checkpassvalidationspvp2p"

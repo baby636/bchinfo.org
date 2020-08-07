@@ -14,7 +14,7 @@ platform:
       text: "walletbitcoincom"
       link: "https://bitcoin.com/wallet"
       source: "https://github.com/Bitcoin-Com/Wallet"
-      screenshot: "bitcoincom.png"
+      screenshot: "bitcoincomwallet.png"
       check:
         control: "checkgoodcontrolfull"
         validation: "checkfailvalidationcentralized"
@@ -38,7 +38,7 @@ platform:
       text: "walletbitcoincom"
       link: "https://bitcoin.com/wallet"
       source: "https://github.com/Bitcoin-Com/Wallet"
-      screenshot: "bitcoincom.png"
+      screenshot: "bitcoincomwallet.png"
       check:
         control: "checkgoodcontrolfull"
         validation: "checkfailvalidationcentralized"
