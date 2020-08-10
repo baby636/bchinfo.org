@@ -16,7 +16,7 @@ default: clean build
 
 ## `make preview`: start the built-in Jekyll preview
 preview: clean
-	$S export LC_ALL=en_US.UTF-8 ; export ENABLED_LANGS="en" ; bundle exec jekyll serve --host 0.0.0.0 --incremental
+	$S export LC_ALL=en_US.UTF-8 ; export ENABLED_PLUGINS="alerts autocrossref contributors events glossary redirects releases page sitemap" ; export ENABLED_LANGS="en" ; bundle exec jekyll serve --host 0.0.0.0 --incremental
 
 ## `make test`: don't build, but do run all tests
 test: pre-build-tests post-build-tests
