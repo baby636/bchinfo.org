@@ -36,6 +36,6 @@ your client or server following the wrong chain.
 * BCHD: TBA
 * Flowee The Hub: TBA
 * Bitcoin Verde: TBA
-* Knuth: TBA
+* Knuth: 0.4.0+
 * Bitcoin ABC: TBA
 
