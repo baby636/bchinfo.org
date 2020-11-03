@@ -31,11 +31,10 @@ To be compatible with the network upgrade, please see the recommended software b
 The following node versions are recommended to be up-to-date and in-line with the November protocol upgrade. Not running these versions, or any version after, might result in
 your client or server following the wrong chain.
 
-* Bitcoin Cash Node: TBA
-* Bitcoin Unlimited: TBA
+* Bitcoin Cash Node: 22.0.0+
+* Bitcoin Unlimited: 1.9.0+
 * BCHD: TBA
-* Flowee The Hub: TBA
+* Flowee The Hub: 2020.05.1+
 * Bitcoin Verde: TBA
 * Knuth: 0.4.0+
-* Bitcoin ABC: TBA
 
