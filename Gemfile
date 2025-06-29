@@ -13,8 +13,8 @@ ruby '2.4.1'
 ## before they commit to master. If `bundle install` can satisfy all
 ## your dependencies, then nothing extra needs to be done
 group :development do
-  gem 'ffi-icu'
-  gem 'jekyll', '~>3.0'
+  gem 'ffi-icu', '>= 0.2.0'
+  gem 'jekyll', '~> 3.0', '>= 3.0.2'
   gem 'json', '>= 1.9'
   gem 'less', '2.4.0'
   gem 'kramdown'
@@ -29,5 +29,5 @@ end
 ## you can put whatever you want here and bundler will tell us humans to
 ## install the new Gems.
 group :slow_test do
-  gem 'html-proofer', '2.1.0'
+  gem 'html-proofer', '2.2.0'
 end
